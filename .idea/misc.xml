@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/server_screen.xml" value="0.1" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_advertisement.xml" value="0.264" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_content.xml" value="0.2" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_footer.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_from.xml" value="0.25" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_header.xml" value="0.1" />
+        <entry key="..\:/Users/prabh/AndroidStudioProjects/Demo2/app/src/main/res/layout/view_holder_to.xml" value="0.18503118503118504" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
